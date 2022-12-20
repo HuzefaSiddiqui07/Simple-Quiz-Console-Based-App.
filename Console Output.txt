@@ -1,0 +1,189 @@
+========================= Quiz Started =========================
+Enter the number of students who are going to take the quiz
+3
+Enter your name
+Huzefa
+Enter your roll.no:
+101
+------------------------------------------------------------------------------
+Show Student Details
+Student Name is >>> Huzefa
+Student Roll.No: 101
+------------------------------------------------------------------------------
+Which symbol is used to contain the values of automatically initialized arrays?
+A. Brackets
+B. Braces
+C. Parentheses
+D. Comma
+Enter Your Answer >>> 
+B
+Correct Answer
+---------------------------------------------------------------------------
+What is the full form of JVM ?
+A. Java Very Large Machine
+B. Java Verified Machine
+C. Java Very Small Machine
+D. Java Virtual Machine
+Enter Your Answer >>> 
+D
+Correct Answer
+---------------------------------------------------------------------------
+Which of the following are not Java modifiers?
+A. public
+B. private
+C. friendly 
+D. transient
+Enter Your Answer >>> 
+D
+Incorrect Correct!...Correct Answer is > C
+---------------------------------------------------------------------------
+Who is known as father of Java Programming Language?
+A. James Gosling
+B. M.P Java
+C. Charel Babbage
+D. Blais Pascal
+Enter Your Answer >>> 
+A
+Correct Answer
+---------------------------------------------------------------------------
+Which provides runtime environment for java byte code to be executed?
+A. JDK
+B. JVM
+C. JRE
+D. JAVAC
+Enter Your Answer >>> 
+C
+Incorrect Correct!...Correct Answer is > B
+---------------------------------------------------------------------------
+
+---------------Result----------------
+Total Questions >>> 5
+Correct Answered Questions >>> 3
+Wrong Answered Questions >>> 2
+Percentage >>> 60
+Performance : Medium
+---------------------------------------------------------------------
+Enter your name
+Avesh
+Enter your roll.no:
+102
+------------------------------------------------------------------------------
+Show Student Details
+Student Name is >>> Avesh
+Student Roll.No: 102
+------------------------------------------------------------------------------
+Which of the following are not Java modifiers?
+A. public
+B. private
+C. friendly 
+D. transient
+Enter Your Answer >>> 
+C
+Correct Answer
+---------------------------------------------------------------------------
+Who is known as father of Java Programming Language?
+A. James Gosling
+B. M.P Java
+C. Charel Babbage
+D. Blais Pascal
+Enter Your Answer >>> 
+B
+Incorrect Correct!...Correct Answer is > A
+---------------------------------------------------------------------------
+What is the full form of JVM ?
+A. Java Very Large Machine
+B. Java Verified Machine
+C. Java Very Small Machine
+D. Java Virtual Machine
+Enter Your Answer >>> 
+D
+Correct Answer
+---------------------------------------------------------------------------
+Which provides runtime environment for java byte code to be executed?
+A. JDK
+B. JVM
+C. JRE
+D. JAVAC
+Enter Your Answer >>> 
+B
+Correct Answer
+---------------------------------------------------------------------------
+Which symbol is used to contain the values of automatically initialized arrays?
+A. Brackets
+B. Braces
+C. Parentheses
+D. Comma
+Enter Your Answer >>> 
+A
+Incorrect Correct!...Correct Answer is > B
+---------------------------------------------------------------------------
+
+---------------Result----------------
+Total Questions >>> 5
+Correct Answered Questions >>> 3
+Wrong Answered Questions >>> 2
+Percentage >>> 60
+Performance : Medium
+---------------------------------------------------------------------
+Enter your name
+Priyanka
+Enter your roll.no:
+103
+------------------------------------------------------------------------------
+Show Student Details
+Student Name is >>> Priyanka
+Student Roll.No: 103
+------------------------------------------------------------------------------
+Which provides runtime environment for java byte code to be executed?
+A. JDK
+B. JVM
+C. JRE
+D. JAVAC
+Enter Your Answer >>> 
+B
+Correct Answer
+---------------------------------------------------------------------------
+Which of the following are not Java modifiers?
+A. public
+B. private
+C. friendly 
+D. transient
+Enter Your Answer >>> 
+C
+Correct Answer
+---------------------------------------------------------------------------
+What is the full form of JVM ?
+A. Java Very Large Machine
+B. Java Verified Machine
+C. Java Very Small Machine
+D. Java Virtual Machine
+Enter Your Answer >>> 
+$
+Incorrect Correct!...Correct Answer is > D
+---------------------------------------------------------------------------
+Who is known as father of Java Programming Language?
+A. James Gosling
+B. M.P Java
+C. Charel Babbage
+D. Blais Pascal
+Enter Your Answer >>> 
+D
+Incorrect Correct!...Correct Answer is > A
+---------------------------------------------------------------------------
+Which symbol is used to contain the values of automatically initialized arrays?
+A. Brackets
+B. Braces
+C. Parentheses
+D. Comma
+Enter Your Answer >>> 
+B
+Correct Answer
+---------------------------------------------------------------------------
+
+---------------Result----------------
+Total Questions >>> 5
+Correct Answered Questions >>> 3
+Wrong Answered Questions >>> 2
+Percentage >>> 60
+Performance : Medium
+---------------------------------------------------------------------
